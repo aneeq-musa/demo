@@ -11,6 +11,6 @@
     { "id": 9, "country": "Australia","package":"Condimentum purus","link":"https://www.google.com/" },
     { "id": 10, "country": "China","package":"Dolor sit amet","link":"https://www.google.com/" },
     { "id": 11, "country": "Spain","package":"Ut massa risus","link":"https://www.google.com/" },
-    { "id": 12, "country": "USA","package":"Sed tincidunt diam","link":"https://www.google.com/" },
+    { "id": 12, "country": "USA","package":"Sed tincidunt diam","link":"https://www.google.com/" }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "cards": [
+  "image-cards": [
     { "id": 1, "country": "Canada","package":"Lorem ipsum dolor sit amet","link":"https://www.google.com/" },
     { "id": 2, "country": "USA","package":"Augue tortor vel dolor","link":"https://www.google.com/" },
     { "id": 3, "country": "China","package":"Nam sit amet nisi pretium","link":"https://www.google.com/" },
